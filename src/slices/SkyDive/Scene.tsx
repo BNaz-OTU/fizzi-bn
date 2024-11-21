@@ -1,3 +1,4 @@
+//@ts-nocheck
 "use client";
 
 import { Content } from "@prismicio/client";
@@ -5,7 +6,6 @@ import {
   Environment,
   Clouds,
   Cloud,
-  OrbitControls,
   Text,
 } from "@react-three/drei";
 import { useRef } from "react";
