@@ -1,3 +1,5 @@
+Link: https://fizzi-bn.vercel.app/
+
 # Prismic + Next.js Minimal Starter
 
 Want to quickly get started building your own project with [Prismic][prismic] and [Next.js][nextjs]? This project includes basic configurations and nothing else. The project includes one Rich Text Slice, a homepage, and a dynamic page.
