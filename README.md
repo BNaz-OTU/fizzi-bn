@@ -1,10 +1,9 @@
-Link: https://fizzi-bn.vercel.app/
-
 <h1 align=center>
-    <a href="https://fizzi-bn.vercel.app/"  align=center>WEBSITE</a>
+    <a href="https://fizzi-bn.vercel.app/"  align=center>LINK TO WEBSITE</a>
 </h1>
 
-<h1 align=center>Screenshots:</h1>
+<h1 align=center>Preview/Screenshots:</h1>
+<p align=center>(NOTE: Click the link for the 3D experience)</p>
 
 <img width="1397" alt="Screenshot 2025-01-28 at 9 25 13 PM" src="https://github.com/user-attachments/assets/22193d80-8fd1-4721-b5a1-9db139da47a1" />
 
