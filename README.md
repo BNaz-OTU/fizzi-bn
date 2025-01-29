@@ -1,6 +1,10 @@
-<h3 style="text-align:center;">H3 that is center aligned</h3>
-
 Link: https://fizzi-bn.vercel.app/
+
+<h1 align=center>
+    <a href="https://fizzi-bn.vercel.app/"  align=center>WEBSITE</a>
+</h1>
+
+<h1 align=center>Screenshots:</h1>
 
 <img width="1397" alt="Screenshot 2025-01-28 at 9 25 13 PM" src="https://github.com/user-attachments/assets/22193d80-8fd1-4721-b5a1-9db139da47a1" />
 
