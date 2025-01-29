@@ -1,5 +1,16 @@
+<h3 style="text-align:center;">H3 that is center aligned</h3>
+
 Link: https://fizzi-bn.vercel.app/
 
+<img width="1397" alt="Screenshot 2025-01-28 at 9 25 13 PM" src="https://github.com/user-attachments/assets/22193d80-8fd1-4721-b5a1-9db139da47a1" />
+
+<img width="1440" alt="Screenshot 2025-01-28 at 9 26 00 PM" src="https://github.com/user-attachments/assets/79e5c517-7e9f-4a7b-a34a-76cdb9b9b379" />
+
+<img width="1439" alt="Screenshot 2025-01-28 at 9 26 44 PM" src="https://github.com/user-attachments/assets/d0244a26-2805-42d3-95cd-d3d754d7578e" />
+
+<img width="1439" alt="Screenshot 2025-01-28 at 9 26 55 PM" src="https://github.com/user-attachments/assets/a3f85961-0b91-41a7-b5fc-87b4dc95d335" />
+
+<!---
 # Prismic + Next.js Minimal Starter
 
 Want to quickly get started building your own project with [Prismic][prismic] and [Next.js][nextjs]? This project includes basic configurations and nothing else. The project includes one Rich Text Slice, a homepage, and a dynamic page.
@@ -124,3 +135,4 @@ limitations under the License.
 [prismic-sign-up]: https://prismic.io/dashboard/signup
 [nextjs]: https://nextjs.org/
 [live-demo]: https://nextjs-starter-prismic-minimal.vercel.app/
+-->
