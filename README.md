@@ -1,6 +1,15 @@
 <h1 align=center>
-    <a href="https://fizzi-bn.vercel.app/"  align=center>LINK TO WEBSITE</a>
+    <a href="https://fizzi-bn.vercel.app/"  align=center>🚀 LINK TO WEBSITE 🚀</a>
 </h1>
+
+<br>
+<br>
+
+<h1 align=center>Description:</h1>
+<p align=center>This website has also been created to be compatible with Mobile Devices</p>
+
+<br>
+<br>
 
 <h1 align=center>Preview/Screenshots:</h1>
 <p align=center>(NOTE: Click the link for the 3D experience)</p>
@@ -12,6 +21,7 @@
 <img width="1439" alt="Screenshot 2025-01-28 at 9 26 44 PM" src="https://github.com/user-attachments/assets/d0244a26-2805-42d3-95cd-d3d754d7578e" />
 
 <img width="1439" alt="Screenshot 2025-01-28 at 9 26 55 PM" src="https://github.com/user-attachments/assets/a3f85961-0b91-41a7-b5fc-87b4dc95d335" />
+
 
 <!---
 # Prismic + Next.js Minimal Starter
