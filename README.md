@@ -1,18 +1,29 @@
 <h1 align=center>
-    <a href="https://fizzi-bn.vercel.app/"  align=center>🚀 LINK TO WEBSITE 🚀</a>
+    <a href="https://fizzi-bn.vercel.app/">🚀 EXPLORE THE WEBSITE 🚀</a>
 </h1>
 
 <br>
 <br>
 
-<h1 align=center>Description:</h1>
-<p align=center>This website has also been created to be compatible with Mobile Devices</p>
+<h1 align=center>✏️ Description:</h1>
+
+<br>
+
+<p>💎 Leveraging Next.js 14, GSAP, Prismic, Three.js, Tailwind CSS, and TypeScript, I developed a fictional e-commerce product landing page for an imagined soda brand.</p>
+
+<p>💎 This project integrates 3D models using Three.js and employs GSAP for smooth, fluid animations. The combination of interactive animations and 3D assets delivers a dynamic, responsive, and engaging user experience. The goal of this project was to demonstrate my skills in animation techniques and the seamless integration of 3D elements within a web environment.</p>
+
+<p>💎 This website is hosted on Vercel and has been optimized for full compatibility with mobile devices.</p>
 
 <br>
 <br>
 
-<h1 align=center>Preview/Screenshots:</h1>
-<p align=center>(NOTE: Click the link for the 3D experience)</p>
+<h1 align=center>📸 Preview/Screenshots:</h1>
+<p align=center>
+    (NOTE: Click the 
+    <a href="https://fizzi-bn.vercel.app/">link</a>
+    for the 3D experience)
+</p>
 
 <img width="1397" alt="Screenshot 2025-01-28 at 9 25 13 PM" src="https://github.com/user-attachments/assets/22193d80-8fd1-4721-b5a1-9db139da47a1" />
 
